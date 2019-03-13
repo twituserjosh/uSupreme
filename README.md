@@ -24,4 +24,7 @@ Note: Do a fake manual checkout and click "save this address" on supremes checko
 WARNING: If size or color is OOS it will pick the next SMALLEST SIZE and/or RANDOM COLOR!
 
 To Do:
-[-] # '[-]'
+- [x] Anti-Bot Detection
+- [x] Easy(ish) Documentation
+- [ ] Ability to run without having to go to supreme first (maybe one day shortcuts will allow that)
+- [ ] Will to live
