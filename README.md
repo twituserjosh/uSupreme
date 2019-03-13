@@ -19,6 +19,8 @@ How to:
 9) Click share --> Shortcuts --> u\Supreme
 10) copith thy' jawnz
 
+~If you have any issues/sugestions or if u cop something tweet me @twituserjosh
+
 Note: Do a fake manual checkout and click "save this address" on supremes checkout page. (this reduces bot detection)
 
 WARNING: If size or color is OOS it will pick the next SMALLEST SIZE and/or RANDOM COLOR!
