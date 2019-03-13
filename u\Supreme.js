@@ -157,13 +157,13 @@ if (document.getElementById('cart-update').children[0].innerHTML === "remove") {
 checkout();
 return;
 }
-notifyHeader.innerHTML = "carting";
+notifyHeader.innerHTML = "Choosing Color";
 await chooseColor();
-notifyHeader.innerHTML = "choosing color";
+notifyHeader.innerHTML = "Anti-Bot Delay";
 await sleep(89);
-notifyHeader.innerHTML = "delaying";
+notifyHeader.innerHTML = "Choosing Size";
 chooseSize();
-notifyHeader.innerHTML = "choosing size";
+notifyHeader.innerHTML = "Sending to Checkout";
 await sleep(120);
 let atcBtn = document.getElementsByClassName("cart-button")[0];
 atcBtn.click();
@@ -262,7 +262,7 @@ await sleep(299);
 document.getElementById("order_terms").click();
 notifyHeader.innerHTML = "checking out...";
 if (autoCheckout){
-notifyHeader.innerHTML = "checking out...";
+notifyHeader.innerHTML = "captcha hit!";
 await sleep(checkout_delay);
 document.getElementById("hidden_cursor_capture").click();
 }
