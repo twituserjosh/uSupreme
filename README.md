@@ -17,3 +17,6 @@ How to:
 8) Open Safari --> Proceed to Supremes Website
 9) Click share --> Shortcuts --> u\Supreme
 10) cop thy jawnz
+
+
+Note: Do a fake manual checkout and click "save this address" on supremes checkout page. (this reduces bot detection)
