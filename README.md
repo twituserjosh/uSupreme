@@ -24,6 +24,7 @@ How to:
 Note: Do a fake manual checkout and click "save this address" on supremes checkout page. (this reduces bot detection)
 
 WARNING: If size or color is OOS it will pick the next SMALLEST SIZE and/or RANDOM COLOR!
+(you can change this setting on lines 195 & 218)
 
 To Do:
 - [x] Anti-Bot Detection
