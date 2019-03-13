@@ -19,7 +19,7 @@ How to:
 9) Click share --> Shortcuts --> u\Supreme
 10) copith thy' jawnz
 
-- There are more instructions in the app if you are stuck
+~ There are more instructions in the app if you are stuck
 
 ~If you have any issues/sugestions or if u cop something tweet me @twituserjosh
 
