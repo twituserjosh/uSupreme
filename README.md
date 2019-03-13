@@ -8,7 +8,7 @@ Supreme iOS Shortcuts bot to help you cop some new jawnz
 How to:
 
 1) install Shortcuts on iOS https://itunes.apple.com/app/shortcuts/id915249334
-2) install u\Supreme https://www.icloud.com/shortcuts/dac4a8925c774ffb84ffe4cebbc4218f
+2) install u\Supreme https://www.icloud.com/shortcuts/305ea00f18aa40cc93568c7f2a2efb59
 3) Open Shortcuts app
 4) Press the 3 dots in the corner of the app
 5) Press the "2 switches button" 
@@ -16,7 +16,6 @@ How to:
 7) Edit let var to match your settings
 8) Open Safari --> Proceed to Supremes Website
 9) Click share --> Shortcuts --> u\Supreme
-10) cop thy jawnz
-
+10) copith thy' jawnz
 
 Note: Do a fake manual checkout and click "save this address" on supremes checkout page. (this reduces bot detection)
