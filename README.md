@@ -20,6 +20,7 @@ How to:
 10) copith thy' jawnz
 
 ~ There are more instructions in the app if you are stuck
+~ For future updates, Simply copy all of u\supreme.js, then paste into "Run JavaScript on Web Page"
 
 ~If you have any issues/sugestions or if u cop something tweet me @twituserjosh
 
