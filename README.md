@@ -12,7 +12,7 @@ How to:
 3) Open Shortcuts app
 4) Press the 3 dots in the corner of the app
 5) Press the "2 switches button" 
-6) Then enable "Show in Share Sheet"
+6) Enable "Show in Share Sheet"
 7) Edit let var to match your settings
 8) Open Safari --> Proceed to Supremes Website
 9) Click share --> Shortcuts --> u\Supreme
