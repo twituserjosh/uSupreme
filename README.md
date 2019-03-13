@@ -1,4 +1,4 @@
-# u-Supreme
+# u\Supreme 🐶
 iOS Shortcuts Mobile Bot
 
 Original: https://github.com/navarrojandg/hypeeyes
