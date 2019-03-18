@@ -1,7 +1,7 @@
 # u\Supreme 🐶
 iOS Shortcuts Mobile Bot
 
-Original: https://github.com/navarrojandg/hypeeyes (majority of the code, show him some love)
+Original: https://github.com/navarrojandg/hypeeyes (chopped and screwed his code, show him some love)
 
 Supreme iOS Shortcuts bot to help you cop some new jawnz
 
